@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Liam Fox</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Liam Fox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>your-email@example.com (Liam Fox)</managingEditor>
+    <webMaster>your-email@example.com (Liam Fox)</webMaster>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://example.org/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Liam Fox)</author>
+      <guid>https://example.org/research/</guid>
+      <description>&lt;p&gt;&#xA;&lt;figure class=&#34;research-image&#34;&gt;&#xA;&lt;img src=&#34;https://example.org/images/derricks.jpg&#34; alt=&#34;Oil well in Drumheller, Alberta&#34; class=&#34;research-image&#34; /&gt;&#xA;&lt;figcaption&gt;Oil wells in Drumheller, Alberta. Photo by author.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;div class=&#34;body&#34;&gt;&#xA;&lt;p&gt;My dissertation research examines the rise of extractive populism in the Canadian Prairies. I follow its making into previous moments of crisis within the colonial state of Canada, exploring themes of race and gender in the political cultures of extractive workers. I situate the crisis within the broader problematic of the neoliberal environmental state&amp;rsquo;s declining legitimacy, failing as it is to deliver effective solutions to the climate emergency while managing the excesses of capital accumulation.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>
+<figure class="research-image">
+<img src="/images/derricks.jpg" alt="Oil well in Drumheller, Alberta" class="research-image" />
+<figcaption>Oil wells in Drumheller, Alberta. Photo by author.</figcaption>
+</figure>
+<div class="body">
+<p>My dissertation research examines the rise of extractive populism in the Canadian Prairies. I follow its making into previous moments of crisis within the colonial state of Canada, exploring themes of race and gender in the political cultures of extractive workers. I situate the crisis within the broader problematic of the neoliberal environmental state&rsquo;s declining legitimacy, failing as it is to deliver effective solutions to the climate emergency while managing the excesses of capital accumulation.</p>
+<p>The dissertation draws on two years of archival and interview fieldwork, and engages critical political economy literatures on topics of populism, settler colonialism, and the crises of racial capitalism. Stay tuned for publications in the works that share the findings of this research.</p>
+<p>In my MA research, I studied the politics of the Canadian environmental impact assessment (EIA) institutions for oil and gas pipelines, the findings of which I <a href="https://doi.org/10.1111/anti.12848" target="_blank">published</a> in the journal <i>Antipode</i>. I argue that the federal EIA regime can be understood as a scalar fix to deal with persistent and unresolved tensions within colonial jurisdiction.</p>
+<p>I have also been involved in research projects examining the <a href="https://jwam.ubc.ca/research/projects/hidden-costs-of-supply-chains/" target="_blank">changing geographies of supply chain capitalism</a> in the post/pandemic era, colonial infrastructure build-out in Western Canada, the state-finance nexus in critical mineral extractivism, and <a href="https://housingcoopresearch.ca/" target="_blank">relationships of place and care in co-operative housing</a> in Vancouver, B.C.</p>
+<p>In general, in my research, I explore the material cultures of extractivism using political economic/ecological approaches, with a regional interest in &ldquo;Western Canada&rdquo;. Climate change is not just a problem of getting the policy right: it&rsquo;s also a struggle over meaning. My main concern is how to make socially just climate and energy transitions happen, and how best to understand and respond to the political and cultural forces obstructing them.</p>
+  </div>
+</div>
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Liam Fox)</author>
+      <guid>https://example.org/publications/</guid>
+      <description>&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;&#xA;&lt;div class=&#34;publication-list&#34;&gt;&#xA;  &lt;div class=&#34;publication-item&#34;&gt;&#xA;    &lt;div class=&#34;year&#34;&gt;2022&lt;/div&gt;&#xA;    &lt;div class=&#34;details&#34;&gt;&lt;a href=&#34;https://doi.org/10.1111/anti.12848.&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;“Pipelines in the ‘Public Interest’? The Jurisdictional Work of a Concept in Canadian Pipeline Assessment.”&lt;/a&gt; &lt;i&gt;Antipode&lt;/i&gt;, 54, no. 5&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;publication-item&#34;&gt;&#xA;    &lt;div class=&#34;year&#34;&gt;2021&lt;/div&gt;&#xA;    &lt;div class=&#34;details&#34;&gt;&lt;a href=&#34;https://doi.org/10.1080/14649365.2021.1976909&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;“Pollution Is Colonialism (Book Review).”&lt;/a&gt; &lt;i&gt;Social &amp; Cultural Geography.&lt;/i&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<h3 id="publications">Publications</h3>
+<div class="publication-list">
+  <div class="publication-item">
+    <div class="year">2022</div>
+    <div class="details"><a href="https://doi.org/10.1111/anti.12848." target="_blank" rel="noopener noreferrer">“Pipelines in the ‘Public Interest’? The Jurisdictional Work of a Concept in Canadian Pipeline Assessment.”</a> <i>Antipode</i>, 54, no. 5</div>
+  </div>
+  <div class="publication-item">
+    <div class="year">2021</div>
+    <div class="details"><a href="https://doi.org/10.1080/14649365.2021.1976909" target="_blank" rel="noopener noreferrer">“Pollution Is Colonialism (Book Review).”</a> <i>Social & Cultural Geography.</i></div>
+  </div>
+</div>  ]]></content:encoded>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://example.org/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>your-email@example.com (Liam Fox)</author>
+      <guid>https://example.org/test/</guid>
+      <description>&lt;div style=&#34;color: red;&#34;&gt;&#xA;This is raw HTML rendered as red text.&#xA;&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<div style="color: red;">
+This is raw HTML rendered as red text.
+</div>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

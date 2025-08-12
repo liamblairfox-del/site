@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap');
+
+.headshot {
+  width: 100%; /* fills image-column */
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.research-image {
+  float: right;
+  width: 350px; /* Adjust as needed */
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.research-image figcaption {
+  font-size: 0.75em;
+  color: #aaa;
+  text-align:center;
+}
+
+.two-column {
+  display: flex;
+  align-items: flex-start; /* aligns top of image and text */
+  gap: 2rem; /* spacing between columns */
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.text-column {
+  flex: 1; /* takes remaining space */
+}
+
+.image-column {
+  flex: 0 0 300px; /* fixed width for the image column */
+  margin-top: 4em;
+}
+
+.research-image-column {
+  flex: 0 0 300px !important;
+  margin-top: 0em !important;
+}
+
+body {
+  font-family: 'Spectral', serif !important;
+  color: #c9d1d9; /* Keep your theme’s color or adjust */
+}
+
+header {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0px;
+  padding-right: 0px;
+  box-sizing: border-box;
+}
+
+nav {
+  max-width: 800px;
+  box-sizing: border-box;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0px !important;  /* try removing left padding */
+  padding-right: 0px !important;
+  /* Optional: make links inline-block or flex for better control */
+  display: flex;
+  gap: 15px; /* space between links */
+  justify-content: flex-start; /* align left */
+  align-items: center;
+}
+
+nav a {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+nav a:hover {
+  background-color: #f9d4f0;
+  color: #d54ab5;
+}
+
+a:hover {
+  background-color: #f9d4f0;
+  color: #d54ab5;
+}
+
+.publication-list {
+  max-width: 800px;
+}
+
+.publication-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 0.5em;
+}
+
+.publication-item .year {
+  flex: 0 0 60px;
+  font-weight: bold;
+}
+
+.publication-item .details {
+  flex: 1;
+  text-indent: -60px;
+  padding-left: 60px;
+}
+
+
+
+
+
