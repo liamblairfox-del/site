@@ -5,7 +5,7 @@
     <link>https://example.org/categories/</link>
     <description>Recent content in Categories on Liam Fox</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <managingEditor>your-email@example.com (Liam Fox)</managingEditor>
     <webMaster>your-email@example.com (Liam Fox)</webMaster>
     <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
