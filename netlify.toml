@@ -1,6 +1,3 @@
 [build]
+  command = "hugo --verbose"
   publish = "public"
-  command = "hugo"
-
-[context.production.environment]
-  HUGO_VERSION = "0.111.3"  # or your desired version
